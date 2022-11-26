@@ -1,0 +1,16 @@
+instruction: "Below are paragraphs taken from the podcast of an individual. Write a one-line summary for each paragraph so that they can understand the contents of that paragraph quickly. They will use the summaries to pick relevant paragraphs to share publicly, so the one-line summary should highlight any interesting aspects of the answer from the paragraph."
+input-output:
+  - 
+    paragraph: "Well, thanks for having me, and I'm glad you're enjoying farcaster. If we wanna go back to the beginning, I grew up in Massachusetts. Um, I'm the oldest of four boys. I first kind of fell in love with the internet probably around the time we had aol, so a dial up connection. And I remember having to ask my parents permission to be able to go to the computer room to go on the internet cause it would block the phone line and, you know, it was limited in the amount of time I got to spend on it."
+    summary: "fell in love with the internet at a young age"
+  -
+    paragraph: "Um, and then in kind of around 2000, I think we got our first broadband connection. And I think that that was kind of the unlock for me in that you all, you could eat internet and Google had just come out. And so kind of this access to the world's information. I, I've always been a big fan of the book. The Hitchhikers got to the Galaxy and the idea of kind of having a computer in your pocket that could access kind of all known information was pretty cool."
+    summary: "first broadband connection, became a big fan of the internet"
+
+  -
+    paragraph: Um, and then in kind of around 2000, I think we got our first broadband connection. And I think that that was kind of the unlock for me in that you all, you could eat internet and Google had just come out. And so kind of this access to the world's information. I, I've always been a big fan of the book. The Hitchhikers got to the Galaxy and the idea of kind of having a computer in your pocket that could access kind of all known information was pretty cool.
+    summary: first broadband connection, became a big fan of the internet
+
+  -
+    paragraph: So obviously when the iPhone came out, that was pretty inspiring. But, um, I think I can remember one thing that I tried to do was I didn't think the internet was fast enough. And so I spent a lot of time on forums, uh, on how to potentially hack your, your cable modem, as well as changing the Windows registry values, uh, which would on the margin improve things.
+    summary: slow internet - hacking cable modems and changing Windows registry values
